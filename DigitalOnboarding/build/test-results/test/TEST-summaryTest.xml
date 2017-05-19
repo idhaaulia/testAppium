@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="summaryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-19T11:14:14" hostname="Istiana.local" time="206.509">
+  <properties/>
+  <testcase name="TC_01" classname="summaryTest" time="206.509"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
